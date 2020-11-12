@@ -1,0 +1,35 @@
+body{
+    background-color: #ffc93c;
+}
+.text{
+    background-color: #07689f;
+    color: #a2d5f2;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.Intro{
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.Body{
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    background-color: olivedrab;
+    color: #a2d5f2;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    font-size: large;
+    font-style: italic;
+}
+button:hover{
+    transform: scale(0.8);
+}
+link:visited{
+    color: crimson;
+}
+
